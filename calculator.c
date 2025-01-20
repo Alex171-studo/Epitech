@@ -14,7 +14,5 @@
         fgets(operation,sizeof(operation),stdin);   // Stockage dans opération qui compte 49 caractères
         printf("Vous avez entré : %s",operation);   // AFfichage de l'opération saisie
 
-
-
      return 0;
     }
